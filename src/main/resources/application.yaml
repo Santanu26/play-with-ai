@@ -1,0 +1,9 @@
+server:
+  port: ${SERVER_PORT}
+spring:
+  ai:
+    openai:
+      api-key: ${SPRING_AI_OPENAI_API_KEY}
+      image-generator:
+        url: https://api.openai.com
+        api-key: ${SPRING_AI_OPENAI_IMAGE_API_KEY}
