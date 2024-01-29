@@ -1,4 +1,4 @@
-## Create your single page website with AI
+## Create your single page website with AI (V1)
 # AI Generate Prompt API
 
 This API provides functionality to generate HTML content for single-page websites based on a given topic. It utilizes an AI client to generate HTML5 content with multiple tabs, visually appealing styles, and valid copy for individual sections.
@@ -28,3 +28,4 @@ This API provides functionality to generate HTML content for single-page website
  ## Note
   This API relies on an external AI client to generate HTML content based on the provided topic.
   Ensure proper error handling and input validation in production usage.
+I will update the image generation doc. in later.
